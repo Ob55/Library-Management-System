@@ -1,0 +1,50 @@
+Book: The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: To Kill a Mockingbird, Harper Lee, 02, False
+Book: Pride and Prejudice, Jane Austen, 03, True
+Book: 1984, George Orwell, 04, True
+Book: The Catcher in the Rye, J.D. Salinger, 05, False
+Book: Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: Book1, Author1, ISBN1, True
+Book: Book2, Author2, ISBN2, True
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Book: [Book1]:The Great Gatsby, F. Scott Fitzgerald, 01, False
+Book: [Book2]:To Kill a Mockingbird, Harper Lee, 02, False
+Book: [Book3]:Pride and Prejudice, Jane Austen, 03, False
+Book: [Book4]:1984, George Orwell, 04, False
+Book: [Book5]:The Catcher in the Rye, J.D. Salinger, 05, False
+Book: [Book6]:Harry Potter and the Philosopher's Stone, J.K. Rowling, 06, False
+Patron: brian
+Patron: maina
+Patron: annabel
+Patron: Patron1
+Patron: Patron2
+Patron: Ronar
